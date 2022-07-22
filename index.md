@@ -22,14 +22,14 @@ I discovered that both the software and Arduino aspects of my project were extre
 # Demo Night Video
 This is my demonstration video that was recorded and presented on 7/21/2022. I run through what my project is about, how it works, and what it really does.
 
-<iframe src="https://www.youtube.com/embed/tiBe-x5lAsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/tiBe-x5lAsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Third Milestone/Modifications
 
 My Third Milestone showed the modifcations I made on the second milestone. For the modifications, I made a RFID bracelette and a cardboard case for the RFID-breadboard-Arduino system. The cardboard case was definetly hard simply because of the dimensions.
 
-<iframe src="https://www.youtube.com/embed/W8EPWavnwPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/W8EPWavnwPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 
@@ -37,7 +37,7 @@ In my second milestone, I showed how I switched from an arduino uno to an arduin
 
 ![arduinoschematic](https://user-images.githubusercontent.com/73252745/180457332-c6ad25eb-e71b-4184-b8cc-af0417b2d845.JPG)
 
-<iframe src="https://www.youtube.com/embed/DaXj_zLngkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/DaXj_zLngkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # First Milestone
@@ -46,4 +46,4 @@ My first milestone was setting up and hooking up the RFID sensor with an Arduino
 
 ![arduinounoschematic](https://user-images.githubusercontent.com/73252745/180457391-d101b774-655a-4122-ab14-5735ece3bbff.JPG)
 
-<iframe src="https://www.youtube.com/embed/YZ3usDSlLOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="425" src="https://www.youtube.com/embed/YZ3usDSlLOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
