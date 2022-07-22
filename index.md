@@ -9,7 +9,7 @@ I am using an RFID sensor and an arduino to unlock a Windows based device using 
 
 Myself             |  My Project
 :-------------------------:|:-------------------------:
-<img src="[https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/squirrelssample.JPG?raw=true](https://github.com/AryanWadhwa05/Aryan-RFID-Windows-Unlocker/blob/f49b7dfcb4d26d832665ac643f16ba0fa34265b1/1.JPG)" width="400" height="250"/>  |  <img src= "https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/Capture.JPG?raw=true" width="400" height="250" />
+<img src="https://github.com/AryanWadhwa05/Aryan-RFID-Windows-Unlocker/blob/gh-pages/1.JPG?raw=true" width="400" height="250"/>  |  <img src= "https://github.com/AryanWadhwa05/Aryan-BSE-Portfolio/blob/gh-pages/Capture.JPG?raw=true" width="400" height="250" />
 
 <br/>
 
