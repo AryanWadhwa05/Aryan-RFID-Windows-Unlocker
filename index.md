@@ -20,7 +20,7 @@ Throughout my 3 weeks at Bluestamp Engineering, I have learned a great deal in b
 I discovered that both the software and Arduino aspects of my project were extremely enjoyable to do. From constantly debugging code to setting up my Arduino uno/micro, Bluestamp Engineering along with the amazing instructors were able to teach me a great deal through my 3 weeks at the program.
 
 # Demo Night Video
-This is my demonstration video that was recorded and presented on 7/21/2022. I run through what my project is about, how it works, and what it really does.
+This is my video that was recorded and presented on 7/21/2022. I run through what my project is about, how it works, and what it really does.
 
 <iframe width="830" height="425" src="https://www.youtube.com/embed/tiBe-x5lAsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
