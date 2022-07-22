@@ -44,6 +44,6 @@ In my second milestone, I showed how I switched from an arduino uno to an arduin
 
 My first milestone was setting up and hooking up the RFID sensor with an Arduino Uno. The RFID RC522 requires 7 different connection including a GND and a 3V connection. You can't use a 5V connection as that overheats the sensor and this piece of equipment is genrally very sensitive to extra voltage. We then have a MISO, MOSI, SDA, SCK, and RST connections that all ensure the RFID is able to relay the information to the arduino and that the Uno is able relay the code to the RFID. 
 
-<img src="https://github.com/AryanWadhwa05/Aryan-RFID-Windows-Unlocker/blob/gh-pages/arduinounoschematic.JPG?raw=true" width="830" height="600" />
+<img src="https://github.com/AryanWadhwa05/Aryan-RFID-Windows-Unlocker/blob/gh-pages/arduinounoschematic.JPG?raw=true" width="880" height="550" />
 
 <iframe width="830" height="425" src="https://www.youtube.com/embed/YZ3usDSlLOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
